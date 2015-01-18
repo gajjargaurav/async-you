@@ -1,0 +1,22 @@
+{
+  "name": "async-you",
+  "version": "1.0.0",
+  "description": "async-you tutorial",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gajjargaurav/async-you.git"
+  },
+  "author": "Gaurav Gajjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gajjargaurav/async-you/issues"
+  },
+  "homepage": "https://github.com/gajjargaurav/async-you",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
