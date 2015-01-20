@@ -1,6 +1,4 @@
-var http = require('http')
-	, wrapper = require('./httpwrapper')
-	, async = require('async')
+var async = require('async')
 	, request = require('request');
 var arr = ['one', 'two', 'three'];
 async.reduce(arr, 0, function(memo, item, callback){
